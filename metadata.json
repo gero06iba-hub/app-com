@@ -1,0 +1,6 @@
+{
+  "name": "Tesorería Movimiento Consolación",
+  "description": "Sistema de gestión de tesorería sin fines de lucro y generador de plantilla Excel con fórmulas en español para el Movimiento Consolación para el Mundo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
